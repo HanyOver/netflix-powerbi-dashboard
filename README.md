@@ -1,6 +1,7 @@
 # Netflix Content Growth Dashboard (Power BI)
 
-![Dashboard](images/dashboard.png)
+![Dashboard]<img width="1327" height="736" alt="Screenshot 2026-10-16 124217" src="https://github.com/user-attachments/assets/f5892f0e-74f1-4824-92b9-2ac5064174b9" />
+
 
 ## Overview
 An interactive Power BI dashboard analyzing Netflix's catalog of 8,791 titles. It shows how content has grown by release year and how the catalog splits between Movies and TV Shows.
